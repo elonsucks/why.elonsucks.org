@@ -38,6 +38,6 @@ var redirectURLs = {
 		{ "url" : "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" },
 	// Legal docs
 		// California's lawsuit against Tesla re: racism
-		{ "url" : "https://ca-times.brightspotcdn.com/e8/c4/932fafa44013b4e7a4bc082b9615/dfeh-tesla-complaint.pdf" }
+		{ "url" : "https://cdn.elonsucks.org/tesla/dfeh-tesla-complaint.pdf" }
 	]
 }
