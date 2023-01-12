@@ -30,7 +30,7 @@ var redirectURLs = {
 		{ "url" : "https://arstechnica.com/tech-policy/2022/11/spacex-faces-labor-charges-after-firing-employees-who-criticized-elon-musk/" },
 		{ "url" : "https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags" },
 		{ "url" : "https://www.yahoo.com/news/tesla-issues-back-back-recalls-061456829.html" },
-		
+		{ "url" : "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/" },
 	// YouTube
 		// Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" },
