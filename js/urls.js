@@ -37,7 +37,7 @@ var redirectURLs = {
 	// Quora
 		{ "url" : "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" },
 	// Legal docs
-		{ "url" : "https://cdn.elonsucks.org/tesla/musk-tesla-securities-manipulation-class-action.pdf" },
-		{ "url" : "https://cdn.elonsucks.org/tesla/dfeh-tesla-complaint.pdf" } // California's lawsuit vs. Tesla for racism
+		{ "url" : "https://cdn.elonsucks.org/tesla/isaacs-v-musk-tesla-securities-manipulation-class-action.pdf" },
+		{ "url" : "https://cdn.elonsucks.org/tesla/california-v-tesla-racial-discrimination-complaint.pdf" }
 	]
 }
