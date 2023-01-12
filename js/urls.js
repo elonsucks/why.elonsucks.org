@@ -40,6 +40,9 @@ var redirectURLs = {
 		{ "url" : "https://cdn.elonsucks.org/tesla/lynch-et-al-v-tesla-warn-act-class-action.pdf" },
 		{ "url" : "https://cdn.elonsucks.org/tesla/isaacs-v-musk-tesla-securities-manipulation-class-action.pdf" },
 		{ "url" : "https://cdn.elonsucks.org/tesla/williams-et-al-v-tesla-defective-suspension-class-action.pdf" },
-		{ "url" : "https://cdn.elonsucks.org/tesla/california-v-tesla-racial-discrimination-complaint.pdf" }
+		{ "url" : "https://cdn.elonsucks.org/tesla/california-v-tesla-racial-discrimination-complaint.pdf" },
+	// Twitter lawsuits
+		{ "url" : "https://cdn.elonsucks.org/twitter/cornet-et-al-v-twitter-warn-act-class-action.pdf" },
+		{ "url" : "https://cdn.elonsucks.org/twitter/strifling-et-al-v-twitter-female-discrimination-class-action.pdf" }
 	]
 }
