@@ -36,6 +36,7 @@ var redirectURLs = {
 	// YouTube		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
+		{ "url" : "https://www.youtube.com/watch?v=7xzd_xlkPgw" }, //  Gravitas: 1500 animals killed in Neuralink trials - WION
 	// Quora
 		{ "url" : "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" },
 	// Tesla lawsuits
