@@ -33,6 +33,7 @@ var redirectURLs = {
 		{ "url" : "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/" },
 		{ "url" : "https://www.popsci.com/technology/twitter-covid-misinformation/" },
 		{ "url" : "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji" },
+		{ "url" : "https://www.msn.com/en-us/autos/news/emails-show-elon-musk-was-directly-involved-in-staged-self-driving-video/ar-AA16z1XM" },
 	// YouTube		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
