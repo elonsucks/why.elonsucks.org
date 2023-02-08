@@ -34,6 +34,7 @@ var redirectURLs = {
 		{ "url" : "https://www.popsci.com/technology/twitter-covid-misinformation/" },
 		{ "url" : "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji" },
 		{ "url" : "https://www.msn.com/en-us/autos/news/emails-show-elon-musk-was-directly-involved-in-staged-self-driving-video/ar-AA16z1XM" },
+		{ "url" : "https://www.nbcbayarea.com/news/local/east-bay/tesla-through-wall-san-ramon/3150489/" },
 	// YouTube		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
