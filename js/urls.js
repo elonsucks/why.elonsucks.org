@@ -37,6 +37,7 @@ var redirectURLs = {
 		{ "url" : "https://www.nbcbayarea.com/news/local/east-bay/tesla-through-wall-san-ramon/3150489/" },
 		{ "url" : "https://fortune.com/2023/02/09/steve-wozniak-says-dishonest-elon-musk-cheated-tesla-buyers/" },
 		{ "url" : "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer" },
+		{ "url" : "https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report" },
 	// YouTube		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
