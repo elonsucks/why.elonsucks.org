@@ -39,10 +39,11 @@ var redirectURLs = {
 		{ "url" : "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer" },
 		{ "url" : "https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report" },
 		{ "url" : "https://www.forbes.com/sites/mattnovak/2023/02/20/yes-twitter-gives-a-warning-to-users-who-liked-a-tweet-criticizing-tesla-but-theres-more-to-the-story" },
-	// YouTube		
+	// Videos		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
 		{ "url" : "https://www.youtube.com/watch?v=7xzd_xlkPgw" }, //  Gravitas: 1500 animals killed in Neuralink trials - WION
+		{ "url" : "https://www.msnbc.com/mehdi-on-msnbc/watch/what-elon-musk-s-china-ties-mean-for-tesla-twitter-and-how-it-could-endanger-the-rest-of-us-163939397764" },
 	// Quora
 		{ "url" : "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" },
 	// Tesla lawsuits
