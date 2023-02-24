@@ -38,6 +38,7 @@ var redirectURLs = {
 		{ "url" : "https://fortune.com/2023/02/09/steve-wozniak-says-dishonest-elon-musk-cheated-tesla-buyers/" },
 		{ "url" : "https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer" },
 		{ "url" : "https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report" },
+		{ "url" : "https://www.forbes.com/sites/mattnovak/2023/02/20/yes-twitter-gives-a-warning-to-users-who-liked-a-tweet-criticizing-tesla-but-theres-more-to-the-story" },
 	// YouTube		
 		{ "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
 		{ "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
