@@ -40,7 +40,8 @@ const urls = [
     { "url" : "https://www.forbes.com/sites/mattnovak/2023/02/20/yes-twitter-gives-a-warning-to-users-who-liked-a-tweet-criticizing-tesla-but-theres-more-to-the-story" },
     { "url" : "https://www.nbcbayarea.com/news/local/east-bay/tesla-crash-automated-driving-system/3174530/" },
     { "url" : "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say" },
-    { "url" : "https://www.theguardian.com/technology/2023/sep/08/elon-musk-committed-evil-starlink-order-ukraine" },
+    { "url" : "https://www.cnn.com/2023/11/15/media/elon-musk-antisemitism-white-people/index.html" },
+    { "url" : "https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907" },
 // Videos        
     { "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     { "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
