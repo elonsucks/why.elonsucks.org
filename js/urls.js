@@ -42,6 +42,7 @@ const urls = [
     { "url" : "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say" },
     { "url" : "https://www.cnn.com/2023/11/15/media/elon-musk-antisemitism-white-people/index.html" },
     { "url" : "https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907" },
+    { "url" : "https://www.bbc.com/news/technology-67693935" }, // Elon Musk's Tesla recalls two million cars in US over Autopilot defect
 // Videos        
     { "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     { "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
