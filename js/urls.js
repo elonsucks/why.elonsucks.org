@@ -43,12 +43,13 @@ const urls = [
     { "url" : "https://www.cnn.com/2023/11/15/media/elon-musk-antisemitism-white-people/index.html" },
     { "url" : "https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907" },
     { "url" : "https://www.bbc.com/news/technology-67693935" }, // Elon Musk's Tesla recalls two million cars in US over Autopilot defect
-// Videos        
+// Videos
     { "url" : "https://www.youtube.com/watch?v=IAsWX8QKROo" }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     { "url" : "https://youtu.be/UsuYxFBHsiQ" }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
     { "url" : "https://www.youtube.com/watch?v=7xzd_xlkPgw" }, //  Gravitas: 1500 animals killed in Neuralink trials - WION
     { "url" : "https://www.msnbc.com/mehdi-on-msnbc/watch/what-elon-musk-s-china-ties-mean-for-tesla-twitter-and-how-it-could-endanger-the-rest-of-us-163939397764" },
     { "url" : "https://www.youtube.com/watch?v=-Xv9AdwtfD8" }, // Fatal Tesla out-of-control crash - SCMP
+    { "url" : "https://www.youtube.com/watch?v=cBhiQ3x7GjU" }, // Gravitas: Safety concerns over Tesla's robot attack & fatal car malfunctions mount - WION
 // Quora
     { "url" : "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" },
 // Tesla lawsuits
