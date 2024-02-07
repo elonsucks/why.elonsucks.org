@@ -3,7 +3,7 @@
 <a href="#%EF%B8%8F-license"><img height=25 src="https://img.shields.io/badge/License-MIT-fcde7b.svg?logo=internetarchive&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://app.codacy.com/gh/elonsucks/why.elonsucks.org/commits?utm_source=adamlui-js-utils&utm_content=github_shield"><img height=25 src="https://img.shields.io/codacy/grade/10f5791cc6d74c7a967b6a85dcb4570c?label=Code+Quality&logo=codacy&logoColor=white&labelColor=464646&color=b5fc7b&style=for-the-badge"></a>
 
-This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (hosted by Cloudflare Pages).
+This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (hosted by [Cloudflare Pages](https://pages.cloudflare.com/)).
 
 ## 💻 Contributing
 
