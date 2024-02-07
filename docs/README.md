@@ -7,7 +7,7 @@ This repository contains the website code for [why.elonsucks.org](https://why.el
 
 ## 💻 Contributing
 
-Before contributing, to optionally set up pre-commit linting, after forking/cloning:
+(Optional) To set up pre-commit linting, after forking/cloning:
 
 1. Navigate to project root
 
