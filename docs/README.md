@@ -4,6 +4,7 @@
 <a href="https://app.codacy.com/gh/elonsucks/why.elonsucks.org/commits?utm_source=adamlui-js-utils&utm_content=github_shield"><img height=25 src="https://img.shields.io/codacy/grade/10f5791cc6d74c7a967b6a85dcb4570c?label=Code+Quality&logo=codacy&logoColor=white&labelColor=464646&color=b5fc7b&style=for-the-badge"></a>
 
 This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (hosted by [Cloudflare Pages](https://pages.cloudflare.com/)).
+<br><br>
 
 ## 🏛️ MIT License
 
@@ -26,6 +27,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<br><br>
 
 ## 💻 Contributing
 
@@ -38,6 +40,8 @@ SOFTWARE.
    ```
    npm install
    ```
+
+<br>
 
 <img height=6px width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
