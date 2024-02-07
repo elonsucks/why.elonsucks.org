@@ -17,9 +17,7 @@ This repository contains the website code for [why.elonsucks.org](https://why.el
    npm install
    ```
 
-## 🏛️ License
-
-### [MIT License](../LICENSE.md)
+## 🏛️ MIT License
 
 **Copyright (c) 2023–2024 [ElonSucks.org](https://elonsucks.org)**
 
