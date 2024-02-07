@@ -19,7 +19,7 @@ This repository contains the website code for [why.elonsucks.org](https://why.el
 
 ## 🏛️ License
 
-#### [MIT License](../LICENSE.md)
+### [MIT License](../LICENSE.md)
 
 **Copyright (c) 2023–2024 [ElonSucks.org](https://elonsucks.org)**
 
