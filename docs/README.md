@@ -45,4 +45,4 @@ SOFTWARE.
 
 <a href="https://github.com/elonsucks">**Home**</a> /
 <a href="https://github.com/elonsucks/why.elonsucks.org/discussions">Discuss</a> /
-<a href="#">Back to top ↑</a>
+<a href="#-elonsucks--whyelonsucksorg">Back to top ↑</a>
