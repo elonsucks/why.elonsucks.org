@@ -5,18 +5,6 @@
 
 This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (hosted by [Cloudflare Pages](https://pages.cloudflare.com/)).
 
-## 💻 Contributing
-
-(Optional) To enable pre-commit linting, after forking/cloning:
-
-1. Navigate to project root
-
-2. Install dev dependencies ([ESLint](https://github.com/eslint/eslint) + [Husky](https://github.com/typicode/husky)):
-
-   ```
-   npm install
-   ```
-
 ## 🏛️ MIT License
 
 **Copyright (c) 2023–2024 [ElonSucks.org](https://elonsucks.org)**
@@ -38,6 +26,18 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## 💻 Contributing
+
+(Optional) To enable pre-commit linting, after forking/cloning:
+
+1. Navigate to project root
+
+2. Install dev dependencies ([ESLint](https://github.com/eslint/eslint) + [Husky](https://github.com/typicode/husky)):
+
+   ```
+   npm install
+   ```
 
 <img height=6px width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
 
