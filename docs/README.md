@@ -11,7 +11,7 @@ This repository contains the website code for [why.elonsucks.org](https://why.el
 
 1. Navigate to project root
 
-2. Install dev dependencies (ESLint + Husky):
+2. Install dev dependencies ([ESLint](https://github.com/eslint/eslint) + [Husky](https://github.com/typicode/husky)):
    
    ```
    npm install
