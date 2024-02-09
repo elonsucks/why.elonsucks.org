@@ -37,9 +37,9 @@ SOFTWARE.
 
 2. Install dev dependencies ([ESLint](https://github.com/eslint/eslint) + [eslint-plugin-yml](https://github.com/ota-meshi/eslint-plugin-yml) + [Husky](https://github.com/typicode/husky)):
 
-   ```
-   npm install
-   ```
+    ```
+    npm install
+    ```
 
 <br>
 
