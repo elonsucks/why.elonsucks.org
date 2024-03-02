@@ -2,6 +2,7 @@
 
 <a href="#%EF%B8%8F-mit-license"><img height=25 src="https://img.shields.io/badge/License-MIT-fcde7b.svg?logo=internetarchive&logoColor=white&labelColor=464646&style=for-the-badge"></a>
 <a href="https://app.codacy.com/gh/elonsucks/why.elonsucks.org/commits?utm_source=adamlui-js-utils&utm_content=github_shield"><img height=25 src="https://img.shields.io/codacy/grade/10f5791cc6d74c7a967b6a85dcb4570c?label=Code+Quality&logo=codacy&logoColor=white&labelColor=464646&color=b5fc7b&style=for-the-badge"></a>
+<a href="https://sonarcloud.io/component_measures?metric=new_vulnerabilities&id=elonsucks_why.elonsucks.org"><img height=25 src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsonarcloud.io%2Fapi%2Fmeasures%2Fcomponent%3Fcomponent%3Delonsucks_why.elonsucks.org%26metricKeys%3Dvulnerabilities&query=%24.component.measures.0.value&style=for-the-badge&logo=sonarcloud&logoColor=white&labelColor=464646&label=Vulnerabilities&color=orange"></a>
 
 This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (served by [Cloudflare Pages](https://pages.cloudflare.com/)).
 <br><br>
@@ -27,24 +28,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-<br><br>
-
-## 💻 Contributing
-
-(Optional) To enable pre-commit linting, after forking/cloning:
-
-1. Navigate to project root
-
-2. Install dev dependencies ([ESLint](https://github.com/eslint/eslint) + [eslint-plugin-yml](https://github.com/ota-meshi/eslint-plugin-yml) + [Husky](https://github.com/typicode/husky)):
-
-    ```
-    npm install
-    ```
-
-<br>
-
-<img height=6px width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png">
-
-<a href="https://github.com/elonsucks">**Home**</a> /
-<a href="https://github.com/elonsucks/why.elonsucks.org/discussions">Discuss</a> /
-<a href="#-elonsucks--whyelonsucksorg">Back to top ↑</a>
