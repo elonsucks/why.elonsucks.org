@@ -9,7 +9,7 @@ This repository contains the website code for [why.elonsucks.org](https://why.el
 
 ## 🏛️ MIT License
 
-**Copyright (c) 2023–2024 [ElonSucks.org](https://elonsucks.org)**
+**Copyright © 2023–2024 [ElonSucks.org](https://elonsucks.org)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
