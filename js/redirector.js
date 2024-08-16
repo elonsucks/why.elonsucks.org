@@ -1,5 +1,5 @@
 // Randomize number and get the corresponding index for the URL
-const gotoUrl = urls[Math.floor((Math.random() * urls.length))].url // eslint-disable-line
+const gotoUrl = urls[Math.floor(Math.random() * urls.length)]; // eslint-disable-line
 
 // Perform redirect
 if (window.location.search == '?debug') {
