@@ -44,6 +44,7 @@ const urls = [ // eslint-disable-line
     { 'url': 'https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907' },
     { 'url': 'https://www.bbc.com/news/technology-67693935' }, // Elon Musk's Tesla recalls two million cars in US over Autopilot defect
     { 'url': 'https://www.msn.com/en-us/money/companies/uaw-files-federal-labor-charges-against-donald-trump-and-elon-musk-after-threatening-workers-on-x-interview/ar-AA1oJu9T' },
+    { 'url': 'https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html' }, // SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says
 // Videos
     { 'url': 'https://www.youtube.com/watch?v=IAsWX8QKROo' }, // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     { 'url': 'https://youtu.be/UsuYxFBHsiQ' }, // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Random Earth
