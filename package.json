@@ -1,4 +1,9 @@
 {
+  "author": {
+    "name": "Adam Lui",
+    "email": "adam@elonsucks.org",
+    "url": "https://github.com/adamlui"
+  },
   "scripts": {
     "lint": "eslint . --cache",
     "lint:all": "eslint .",
