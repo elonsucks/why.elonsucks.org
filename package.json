@@ -5,6 +5,7 @@
     "url": "https://github.com/adamlui"
   },
   "homepage": "https://why.elonsucks.org",
+  "license": "MIT",
   "scripts": {
     "lint": "eslint . --cache",
     "lint:all": "eslint .",
