@@ -6,6 +6,16 @@
   },
   "homepage": "https://why.elonsucks.org",
   "license": "MIT",
+  "funding": [
+    {
+      "type": "github",
+      "url": "http://github.com/sponsors/elonsucks"
+    },
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/adamlui"
+    }
+  ],
   "scripts": {
     "lint": "eslint . --cache",
     "lint:all": "eslint .",
