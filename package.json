@@ -4,6 +4,7 @@
     "email": "adam@elonsucks.org",
     "url": "https://github.com/adamlui"
   },
+  "homepage": "https://why.elonsucks.org",
   "scripts": {
     "lint": "eslint . --cache",
     "lint:all": "eslint .",
