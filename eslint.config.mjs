@@ -1,5 +1,6 @@
 import js from '@eslint/js'
 import globals from 'globals'
+import css from '@eslint/css'
 import importPlugin from 'eslint-plugin-import'
 import json from '@eslint/json'
 import markdown from '@eslint/markdown'
@@ -34,6 +35,7 @@ export default [
             'no-unused-vars': ['error', { 'caughtErrors': 'none' }] // allow unused named args in catch blocks
         }
     },
+    { files: ['**/*.css'], language: 'css/css', ...css.configs.recommended },
     { files: ['**/*.json'], language: 'json/json', ...json.configs.recommended },
     {
         files: ['**/*.md'], language: 'markdown/commonmark', plugins: { markdown },
