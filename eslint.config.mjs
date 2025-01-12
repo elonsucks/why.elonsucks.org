@@ -11,7 +11,7 @@ import yml from 'eslint-plugin-yml'
 export default [
     { ignores: ['**/package-lock.json'] },
     {
-        files: ['**/*.js', '**/*.mjs'],
+        files: ['**/*.{js,mjs}'],
         languageOptions: { ecmaVersion: 2022, sourceType: 'script', globals: { ...globals.browser }},
         plugins: { 'import': importPlugin, 'js-styles': stylisticJS, regexp },
         rules: {
@@ -47,5 +47,5 @@ export default [
         }
     },
     { files: ['**/*.mjs'], languageOptions: { sourceType: 'module' }},
-    { files: ['**/*.yaml, **/*.yml'], ...yml.configs['flat/standard'][1] }
+    { files: ['**/*.{yaml,yml}'], ...yml.configs['flat/standard'][1] }
 ]
