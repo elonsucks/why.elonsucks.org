@@ -20,7 +20,7 @@ export default [
             ...js.configs.recommended.rules,
             ...importPlugin.flatConfigs.recommended.rules,
             ...regexp.configs['flat/recommended'].rules,
-            'indent': 'off', 'no-unexpected-multiline': 'off', // allow whitespace anywhere
+            'indent': 'off', 'no-unexpected-multiline': 'off', 'key-spacing': 'off', // allow whitespace anywhere
             'js-styles/no-trailing-spaces': 'error', // ...except at ends of lines
             'js-styles/max-len': ['error', { 'code': 120, // limit lines to 120 chars except if containing...
                 'ignoreComments': true, 'ignoreStrings': true, // ...trailing/own-line comments, quoted strings...
@@ -28,7 +28,6 @@ export default [
             'js-styles/no-extra-semi': 'error', // disallow unnecessary semicolons
             'quotes': ['error', 'single', // enforce single quotes...
                 { 'allowTemplateLiterals': true }], // ...except backticks to avoid escaping quotes
-            'key-spacing': ['error', { 'beforeColon': false, 'afterColon': true }], // enforce spacing in object properties
             'comma-dangle': ['error', 'never'], // enforce no trailing commas in arrays or objects
             'no-constant-condition': 'off', // allow constant conditions
             'no-empty': 'off', // allow empty blocks
