@@ -14,7 +14,7 @@ export default [
     { ignores: ['**/package-lock.json'] },
     {
         files: ['**/*.{js,mjs}'],
-        languageOptions: { ecmaVersion: 2022, sourceType: 'script', globals: { ...globals.browser }},
+        languageOptions: { ecmaVersion: 'latest', sourceType: 'script', globals: { ...globals.browser }},
         plugins: { 'import': importPlugin, 'js-styles': stylisticJS, regexp },
         rules: {
             ...js.configs.recommended.rules,
