@@ -4,7 +4,7 @@ const urls = [ // eslint-disable-line
     'https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html',
     'https://www.nbcnews.com/tech/tech-news/disgruntled-neighbors-dwindling-shorebirds-jeopardize-spacex-expansion-rcna7792',
     'https://www.theguardian.com/technology/2017/jun/01/tesla-fires-aj-vandermeyden-lawsuit-sexual-harrassment',
-    'https://www.newsnationnow.com/business/6-more-women-allege-sexual-harassment-at-tesla/',
+    'https://www.business-standard.com/article/international/6-more-women-file-lawsuits-against-elon-musk-s-tesla-for-sexual-harassment-121121500317_1.html',
     'https://www.cnbc.com/2021/12/14/former-spacex-engineer-essay-alleges-culture-is-rife-with-sexism.html',
     'https://www.inputmag.com/culture/five-ex-spacex-employees-allege-widespread-sexual-misconduct',
     'https://jezebel.com/elon-musk-is-a-huge-free-speech-advocate-but-if-you-cr-1849077015',
