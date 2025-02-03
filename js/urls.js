@@ -43,6 +43,7 @@ const urls = [ // eslint-disable-line
     'https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html', // SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says
     'https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/', // Elon tricked door-knockers into campaigning for Trump, threatened to withhold pay
     'https://www.rollingstone.com/culture/culture-news/elon-musk-space-x-flight-attendant-sexual-misconduct-settlement-1356164/',
+    'https://www.newsweek.com/tesla-recalls-24000-vehicles-nhtsa-opens-probe-2012999',
 // Videos
     'https://www.youtube.com/watch?v=IAsWX8QKROo', // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     'https://www.youtube.com/watch?v=VswuC3btb5o', // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Tesala&Ai News
