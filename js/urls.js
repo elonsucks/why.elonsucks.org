@@ -28,7 +28,7 @@ const urls = [ // eslint-disable-line
     'https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/',
     'https://www.popsci.com/technology/twitter-covid-misinformation/',
     'https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji',
-    'https://www.msn.com/en-us/autos/news/emails-show-elon-musk-was-directly-involved-in-staged-self-driving-video/ar-AA16z1XM',
+    'https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/',
     'https://www.nbcbayarea.com/news/local/east-bay/tesla-through-wall-san-ramon/3150489/',
     'https://fortune.com/2023/02/09/steve-wozniak-says-dishonest-elon-musk-cheated-tesla-buyers/',
     'https://www.platformer.news/p/elon-musk-fires-a-top-twitter-engineer',
