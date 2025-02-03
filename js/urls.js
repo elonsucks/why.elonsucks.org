@@ -45,6 +45,7 @@ const urls = [ // eslint-disable-line
     'https://www.rollingstone.com/culture/culture-news/elon-musk-space-x-flight-attendant-sexual-misconduct-settlement-1356164/',
     'https://www.newsweek.com/tesla-recalls-24000-vehicles-nhtsa-opens-probe-2012999',
     'https://oilprice.com/Latest-Energy-News/World-News/Tesla-Looks-To-Silence-Critics-In-China.html',
+    'https://www.yahoo.com/entertainment/elon-musk-consistently-tries-silence-210402696.html',
 // Videos
     'https://www.youtube.com/watch?v=IAsWX8QKROo', // Elon Musk’s Neuralink Trials Go HORRIBLY Wrong - TYT
     'https://www.youtube.com/watch?v=VswuC3btb5o', // TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode! - Tesala&Ai News
