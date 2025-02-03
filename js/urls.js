@@ -1,6 +1,5 @@
 const urls = [ // eslint-disable-line
 // Articles
-    'https://www.vanityfair.com/news/2022/04/elon-musk-twitter-terrible-things-hes-said-and-done',
     'https://www.businessinsider.com/spacex-paid-250000-to-a-flight-attendant-who-accused-elon-musk-of-sexual-misconduct-2022-5',
     'https://www.indepthnews.net/index.php/opinion/3735-we-will-coup-whoever-we-want-elon-musk-and-the-overthrow-of-democracy-in-bolivia',
     'https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html',
