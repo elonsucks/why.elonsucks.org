@@ -22,7 +22,7 @@
     "lint:all": "eslint .",
     "lint:fix": "eslint . --fix --cache",
     "lint:fix-all": "eslint . --fix",
-    "build:js": "minify-js assets dist --no-mangle"
+    "build:js": "minify-js js --no-mangle"
   },
   "devDependencies": {
     "@adamlui/minify.js": "^1.8.5",
