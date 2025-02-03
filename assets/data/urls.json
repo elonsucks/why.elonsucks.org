@@ -1,0 +1,339 @@
+{
+  "articles": {
+    "elon": {
+      "censorship": [
+        {
+          "title": "Elon Musk scolds Tesla driver for pointing out a flaw in the $199-a-month Full Self-Driving subscription after repeatedly calling for 'negative feedback'",
+          "pubDate": "2022.8.24", "publisher": "Yahoo News", "author": "Grace Kay",
+          "url": "https://www.yahoo.com/news/elon-musk-scolds-tesla-driver-153215907.html"
+        },
+        {
+          "title": "Elon Musk, Who Consistently Tries to Silence His Critics, Complains About Free Speech on Twitter",
+          "pubDate": "2022.3.28", "publisher": "Yahoo Entertainment", "author": "Wren Graves",
+          "url": "https://www.yahoo.com/entertainment/elon-musk-consistently-tries-silence-210402696.html"
+        }
+      ],
+      "falseAdvertising": [
+        {
+          "title": "Apple cofounder Wozniak takes aim at ‘dishonest’ Elon Musk for misleading Tesla buyers: ‘They robbed my family of so much money’",
+          "pubDate": "2023.2.9", "publisher": "Fortune", "author": "Christiaan Hetzner",
+          "url": "https://fortune.com/2023/02/09/steve-wozniak-says-dishonest-elon-musk-cheated-tesla-buyers/"
+        },
+        {
+          "title": "Musk oversaw staged Tesla self-driving video, emails show",
+          "pubDate": "2023.1.20", "publisher": "Ars Technica", "author": "Jonathan M. Gitlin",
+          "url": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/"
+        }
+      ],
+      "homophobia": [
+        {
+          "title": "Elon Musk’s Trans Daughter Files to Change Her Name, No Longer ‘Wishes to Be Related’ to Him",
+          "pubDate": "2022.6.20", "publisher": "Jezebel", "author": "Laura Bassett",
+          "url": "https://www.jezebel.com/elon-musks-trans-daughter-files-to-change-her-name-no-1849086311"
+        }
+      ],
+      "humanRights": [
+        {
+          "title": "Musk’s Get-Out-the-Vote Workers Were Driven Around in Back of U-Haul Van and Tricked Into Helping Trump: Report",
+          "pubDate": "2024.10.30", "publisher": "MSN", "author": "Charlie Nash",
+          "url": "https://www.msn.com/en-us/news/politics/musk-s-get-out-the-vote-workers-were-driven-around-in-back-of-u-haul-van-and-tricked-into-helping-trump-report/ar-AA1tec96"
+        },
+        {
+          "title": "‘We Will Coup Whoever We Want’: Elon Musk and the Overthrow of Democracy in Bolivia",
+          "pubDate": "2020.8.1", "publisher": "InDepthNews", "author": "Vijay Prashad",
+          "url": "https://indepthnews.net/we-will-coup-whoever-we-want-elon-musk-and-the-overthrow-of-democracy-in-bolivia/"
+        }
+      ],
+      "narcissism": [
+        {
+          "title": "Elon Musk reportedly forced Twitter algorithm to boost his tweets after Super Bowl flop",
+          "pubDate": "2023.2.15", "publisher": "The Guardian", "author": "Kari Paul",
+          "url": "https://www.theguardian.com/technology/2023/feb/15/elon-musk-changes-twitter-algorithm-super-bowl-slump-report"
+        },
+        {
+          "title": "Elon Musk Wanted to Be Tesla’s Co-Founder so Badly That It Took a Lawsuit to Make It Legal on Paper",
+          "pubDate": "2022.1.8", "publisher": "MotorBiscuit", "author": "MotorBiscuit Staff",
+          "url": "https://www.motorbiscuit.com/elon-musk-wanted-tesla-co-founder-badly-took-lawsuit-make-legal-paper/"
+        }
+      ],
+      "racism": [
+        {
+          "title": "Elon Musk agrees with antisemitic X post that claims Jews ‘push hatred’ against White people",
+          "pubDate": "2023.11.17", "publisher": "CNN Business", "author": "David Goldman",
+          "url": "https://www.cnn.com/2023/11/15/media/elon-musk-antisemitism-white-people/index.html"
+        }
+      ],
+      "sexualHarassment": [
+        {
+          "title": "SpaceX Flight Attendant Says Elon Musk Exposed Himself, Offered Her a Horse: Report",
+          "pubDate": "2022.5.19", "publisher": "Rolling Stone", "author": "Althea Legaspi",
+          "url": "https://www.rollingstone.com/culture/culture-news/elon-musk-space-x-flight-attendant-sexual-misconduct-settlement-1356164/"
+        }
+      ],
+      "unhinged": [
+        {
+          "title": "UAW files federal labor charges against Donald Trump and Elon Musk after threatening workers on X interview",
+          "pubDate": "2024.8.13", "publisher": "CNN Business", "author": "David Goldman",
+          "url": "https://www.cnn.com/2024/08/13/business/uaw-trump-musk-charges/index.html"
+        },
+        {
+          "title": "Elon Musk apologizes for antisemitic tweet but crudely attacks advertisers",
+          "pubDate": "2023.11.30", "publisher": "ABC News", "author": "Max Zahn",
+          "url": "https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907"
+        },
+        {
+          "title": "Elon Musk fires a top Twitter engineer over his declining view count",
+          "pubDate": "2023.2.9", "publisher": "Platformer", "author": [ "Zoë Schiffer", "Casey Newton" ],
+          "url": "https://www.platformer.news/elon-musk-fires-a-top-twitter-engineer/"
+        },
+        {
+          "title": "Extremely Hardcore",
+          "pubDate": "2023.1.17", "publisher": "The Verge", "author": [ "Casey Newton", "Zoë Schiffer", "Alex Heath" ],
+          "url": "https://www.theverge.com/23551060/elon-musk-twitter-takeover-layoffs-workplace-salute-emoji"
+        },
+        {
+          "title": "Elon Musk’s Antics Turn Owners and Would-Be Buyers Against Tesla",
+          "pubDate": "2022.8.8", "publisher": "The Seattle Times", "author": [ "Kyle Stock", "Ira Boudway" ],
+          "url": "https://www.seattletimes.com/business/elon-musks-antics-turn-owners-and-would-be-buyers-against-tesla/"
+        },
+        {
+          "title": "Hundreds of SpaceX employees signed letter denouncing Elon Musk’s behavior",
+          "pubDate": "2022.6.17", "publisher": "The Verge", "author": "Loren Grush",
+          "url": "https://www.theverge.com/2022/6/17/23172913/spacex-complaint-letter-firing-elon-musk"
+        },
+        {
+          "title": "SpaceX employees have finally had it with Elon Musk",
+          "pubDate": "2022.6.16", "publisher": "Input", "author": "SpaceX employees",
+          "url": "https://www.inverse.com/input/culture/spacex-employees-open-letter-bash-elon-musk"
+        }
+      ]
+    },
+    "neuralink": {
+      "animalHarm": [
+        {
+          "title": "Elon Musk’s Neuralink admits to killing eight animals during brain chip tests",
+          "pubDate": "2022.2.14", "publisher": "The Independent", "author": "Anthony Cuthbertson",
+          "url": "https://www.the-independent.com/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html"
+        }
+      ]
+    },
+    "spaceX": {
+      "animalHarm": [
+        {
+          "title": "Disgruntled neighbors and dwindling shorebirds jeopardize SpaceX expansion",
+          "pubDate": "2021.12.8", "publisher": "NBC News", "author": "Olivia Solon",
+          "url": "https://www.nbcnews.com/tech/tech-news/disgruntled-neighbors-dwindling-shorebirds-jeopardize-spacex-expansion-rcna7792"
+        }
+      ],
+      "censorship": [
+        {
+          "title": "Elon Musk Is a Huge ‘Free Speech’ Advocate, But If You Criticize Him, You’re Fired",
+          "pubDate": "2022.6.17", "publisher": "Jezebel", "author": "Lauren Tousignant",
+          "url": "https://www.jezebel.com/elon-musk-is-a-huge-free-speech-advocate-but-if-you-cr-1849077015"
+        },
+        {
+          "title": "SpaceX firings likely violate US labor law, experts say",
+          "pubDate": "2022.6.17", "publisher": "The Verge", "author": "Russell Brandom",
+          "url": "https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb"
+        }
+      ],
+      "govAction": [
+        {
+          "title": "SpaceX illegally fired workers critical of Elon Musk, U.S. labor agency says",
+          "pubDate": "2024.1.4", "publisher": "NBC News", "author": "Reuters",
+          "url": "https://www.nbcnews.com/tech/tech-news/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-rcna132250"
+        },
+        {
+          "title": " SpaceX faces labor charges after firing employees who criticized Elon Musk ",
+          "pubDate": "2022.11.17", "publisher": "Ars Technica", "author": "Jon Brodkin",
+          "url": "https://arstechnica.com/tech-policy/2022/11/spacex-faces-labor-charges-after-firing-employees-who-criticized-elon-musk/"
+        },
+        {
+          "title": "Elon Musk’s antics may finally be catching up to him",
+          "pubDate": "2022.8.10", "publisher": "CNN Business", "author": "Allison Morrow",
+          "url": "https://www.cnn.com/2022/08/10/business/nightcap-elon-musk-spacex-cpi-dominos/index.html"
+        }
+      ],
+      "sexualHarassment": [
+        {
+          "title": "Five ex-SpaceX employees allege widespread sexual misconduct",
+          "pubDate": "2021.12.15", "publisher": "Input", "author": "Matt Wille",
+          "url": "https://www.inverse.com/input/culture/five-ex-spacex-employees-allege-widespread-sexual-misconduct"
+        },
+        {
+          "title": "Former SpaceX engineer alleges in essay that company culture is ‘rife with sexism’",
+          "pubDate": "2021.12.14", "publisher": "CNBC", "author": "Michael Sheetz",
+          "url": "https://www.cnbc.com/2021/12/14/former-spacex-engineer-essay-alleges-culture-is-rife-with-sexism.html"
+        }
+      ]
+    },
+    "tesla": {
+      "censorship": [
+        {
+          "title": "SpaceX fires at least five for letter criticizing Elon Musk",
+          "pubDate": "2022.6.17", "publisher": "CNN Business", "author": "Reuters",
+          "url": "https://www.cnn.com/2022/06/17/tech/spacex-letter-musk-firing/index.html"
+        },
+        {
+          "title": "Tesla Looks To Silence Critics In China",
+          "pubDate": "2021.12.16", "publisher": "OilPrice.com", "author": "ZeroHedge",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Tesla-Looks-To-Silence-Critics-In-China.html"
+        }
+      ],
+      "falseAdvertising": [
+        {
+          "title": "Elon Musk's Tesla accused of fraud, false advertising of 'autopilot' technology in lawsuit",
+          "pubDate": "2022.9.15", "publisher": "USA Today", "author": "Orlando Mayorquin",
+          "url": "https://www.usatoday.com/story/money/2022/09/15/tesla-elon-musk-sued-autopilot/10386771002/"
+        }
+      ],
+      "faulty": [
+        {
+          "title": "Tesla did not fix Autopilot after fatal crash, engineers say",
+          "pubDate": "2023.8.18", "publisher": "South China Morning Post", "author": "Bloomberg",
+          "url": "https://www.scmp.com/tech/big-tech/article/3231488/tesla-did-not-fix-autopilot-after-fatal-crash-engineers-say"
+        },
+        {
+          "title": "Man Says Tesla Drove Itself Into His San Ramon Home",
+          "pubDate": "2023.2.8", "publisher": "NBC Bay Area", "author": [ "Stephen Ellison", "Pete Suratos" ],
+          "url": "https://www.nbcbayarea.com/news/local/east-bay/tesla-through-wall-san-ramon/3150489/"
+        },
+        {
+          "title": "US has over 750 complaints of Teslas braking for no reason",
+          "pubDate": "2022.6.3", "publisher": "Daily Press", "author": "Associated Press",
+          "url": "https://www.dailypress.com/2022/06/03/us-has-over-750-complaints-of-teslas-braking-for-no-reason/"
+        }
+      ],
+      "govAction": [
+        {
+          "title": "Feds Suspect Tesla Using Automated System in Firetruck Crash",
+          "pubDate": "2023.3.8", "publisher": "NBC Bay Area", "author": "Tom Krisher",
+          "url": "https://www.nbcbayarea.com/news/local/east-bay/tesla-crash-automated-driving-system/3174530/"
+        },
+        {
+          "title": "California DMV accuses Tesla of deceptive practices in marketing Autopilot and Full Self-Driving options",
+          "pubDate": "2022.8.5", "publisher": "CNBC", "author": "Lora Kolodny",
+          "url": "https://www.cnbc.com/2022/08/05/california-dmv-says-tesla-fsd-autopilot-marketing-deceptive.html"
+        },
+        {
+          "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
+          "pubDate": "2022.10.26", "publisher": "Reuters", "author": [ "Mike Spector", "Dan Levine" ],
+          "url": "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
+        }
+      ],
+      "racism": [
+        {
+          "title": "Tesla faces fresh discrimination claim from staff",
+          "pubDate": "2022.7.4", "publisher": "The Standard", "author": "Simon English",
+          "url": "https://www.standard.co.uk/business/tesla-discrimination-elon-musk-racism-electric-cars-b1010093.html"
+        },
+        {
+          "title": "Black workers accused Tesla of racism for years. Now California is stepping in",
+          "pubDate": "2022.2.19", "publisher": "The Guardian", "author": "Kari Paul",
+          "url": "https://www.theguardian.com/technology/2022/feb/18/tesla-california-racial-harassment-discrimination-lawsuit"
+        }
+      ],
+      "recalls": [
+        {
+          "title": "Tesla Recalls 240,00 Vehicles After NHTSA Opens Probe",
+          "pubDate": "2025.1.10", "publisher": "Newsweek", "author": [ "Michael D. Carroll", "Hugh Cameron" ],
+          "url": "https://www.newsweek.com/tesla-recalls-24000-vehicles-nhtsa-opens-probe-2012999"
+        },
+        {
+          "title": "Elon Musk's Tesla recalls two million cars in US over Autopilot defect",
+          "pubDate": "2023.12.13", "publisher": "BBC", "author": [ "Tom Gerken", "Chris Vallance" ],
+          "url": "https://www.bbc.com/news/technology-67693935"
+        },
+        {
+          "title": "Tesla Issues Back-to-Back Recalls on Thousands of Vehicles",
+          "pubDate": "2022.11.21", "publisher": "Yahoo Entertainment", "author": "Ingrid Vasquez",
+          "url": "https://www.yahoo.com/entertainment/tesla-issues-back-back-recalls-061456829.html"
+        },
+        {
+          "title": "Tesla recalls over 321,000 vehicles due to taillight software issue",
+          "pubDate": "2022.11.20", "publisher": "The Verge", "author": "Emma Roth",
+          "url": "https://www.theverge.com/2022/11/20/23469616/tesla-recalls-over-300000-vehicles-taillight-issue-airbags"
+        }
+      ],
+      "sexualHarassment": [
+        {
+          "title": "6 more women file lawsuits against Elon Musk's Tesla for sexual harassment",
+          "pubDate": "2021.12.15", "publisher": "Business Standard", "author": "IANS",
+          "url": "https://www.business-standard.com/article/international/6-more-women-file-lawsuits-against-elon-musk-s-tesla-for-sexual-harassment-121121500317_1.html"
+        },
+        {
+          "title": "Tesla fires female engineer who alleged sexual harassment",
+          "pubDate": "2017.6.1", "publisher": "The Guardian", "author": "Sam Levin",
+          "url": "https://www.theguardian.com/technology/2017/jun/01/tesla-fires-aj-vandermeyden-lawsuit-sexual-harrassment"
+        }
+      ]
+    },
+    "twitter": {
+      "censorship": [
+        {
+          "title": "Yes, Twitter Gives A Warning To Users Who Liked A Tweet Criticizing Tesla But There’s More To The Story",
+          "pubDate": "2023.2.20", "publisher": "Forbes", "author": "Matt Novak",
+          "url": "https://www.forbes.com/sites/mattnovak/2023/02/20/yes-twitter-gives-a-warning-to-users-who-liked-a-tweet-criticizing-tesla-but-theres-more-to-the-story/"
+        }
+      ],
+      "demoderation": [
+        {
+          "title": "Twitter quietly removed its ban on COVID-19 misinformation last week",
+          "pubDate": "2022.11.29", "publisher": "Popular Science", "author": "Andrew Paul",
+          "url": "https://www.popsci.com/technology/twitter-covid-misinformation/"
+        }
+      ]
+    }
+  },
+  "lawsuits": {
+    "tesla": [
+      "https://cdn.elonsucks.org/tesla/california-v-tesla-racial-discrimination-complaint.pdf",
+      "https://cdn.elonsucks.org/tesla/isaacs-v-musk-tesla-securities-manipulation-class-action.pdf",
+      "https://cdn.elonsucks.org/tesla/lynch-et-al-v-tesla-warn-act-class-action.pdf",
+      "https://cdn.elonsucks.org/tesla/williams-et-al-v-tesla-defective-suspension-class-action.pdf"
+    ],
+    "twitter": [
+      "https://cdn.elonsucks.org/twitter/cornet-et-al-v-twitter-warn-act-class-action.pdf",
+      "https://cdn.elonsucks.org/twitter/strifling-et-al-v-twitter-female-discrimination-class-action.pdf"  
+    ]
+  },
+  "quora": [ "https://www.quora.com/Whats-the-worst-thing-about-Elon-Musk" ],
+  "videos": {
+    "china": [
+      {
+        "title": "What Elon Musk’s China ties mean for Tesla & Twitter... and how it could endanger the rest of us",
+        "pubDate": "2023.2.23", "publisher": "MSNBC",
+        "url": "https://www.msnbc.com/mehdi-on-msnbc/watch/what-elon-musk-s-china-ties-mean-for-tesla-twitter-and-how-it-could-endanger-the-rest-of-us-163939397764"
+      }
+    ],
+    "neuralink": [
+      {
+        "title": "Gravitas: 1500 animals killed in Neuralink trials",
+        "pubDate": "2022.12.6", "publisher": "WION",
+        "url": "https://www.youtube.com/watch?v=7xzd_xlkPgw"
+      },
+      {
+        "title": "Elon Musk’s Neuralink Trials Go HORRIBLY Wrong",
+        "pubDate": "2022.2.14", "publisher": "The Young Turks",
+        "url": "https://www.youtube.com/watch?v=IAsWX8QKROo"
+      }
+    ],
+    "tesla": [
+      {
+        "title": "Gravitas: Safety concerns over Tesla's robot attack & fatal car malfunctions mount",
+        "pubDate": "2023.12.28", "publisher": "WION",
+        "url": "https://www.youtube.com/watch?v=cBhiQ3x7GjU"
+      },
+      {
+        "title": "Tesla crashes in China after going out of control, killing one and injuring another",
+        "pubDate": "2023.2.20", "publisher": "South China Morning Post",
+        "url": "https://www.youtube.com/watch?v=-Xv9AdwtfD8"
+      },
+      {
+        "title": "TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode!",
+        "pubDate": "2022.12.6", "publisher": "Tesla&Ai News",
+        "url": "https://www.youtube.com/watch?v=VswuC3btb5o"
+      }
+    ]
+  }
+}
