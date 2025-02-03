@@ -24,6 +24,7 @@
     "lint:fix-all": "eslint . --fix"
   },
   "devDependencies": {
+    "@adamlui/minify.js": "^1.8.5",
     "@eslint/css": "^0.2.0",
     "@eslint/json": "^0.10.0",
     "@eslint/markdown": "^6.2.2",
