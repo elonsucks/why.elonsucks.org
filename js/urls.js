@@ -3,7 +3,6 @@ const urls = [ // eslint-disable-line
     'https://indepthnews.net/we-will-coup-whoever-we-want-elon-musk-and-the-overthrow-of-democracy-in-bolivia/',
     'https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html',
     'https://www.nbcnews.com/tech/tech-news/disgruntled-neighbors-dwindling-shorebirds-jeopardize-spacex-expansion-rcna7792',
-    'https://www.bloomberg.com/news/articles/2021-12-15/chinese-customers-in-court-over-tesla-legal-strategy-to-silence-critics',
     'https://www.theguardian.com/technology/2017/jun/01/tesla-fires-aj-vandermeyden-lawsuit-sexual-harrassment',
     'https://www.newsnationnow.com/business/6-more-women-allege-sexual-harassment-at-tesla/',
     'https://www.cnbc.com/2021/12/14/former-spacex-engineer-essay-alleges-culture-is-rife-with-sexism.html',
