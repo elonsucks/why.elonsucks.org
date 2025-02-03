@@ -1,6 +1,6 @@
 const urls = [ // eslint-disable-line
 // Articles
-    'https://www.indepthnews.net/index.php/opinion/3735-we-will-coup-whoever-we-want-elon-musk-and-the-overthrow-of-democracy-in-bolivia',
+    'https://indepthnews.net/we-will-coup-whoever-we-want-elon-musk-and-the-overthrow-of-democracy-in-bolivia/',
     'https://www.independent.co.uk/tech/elon-musk-neuralink-brain-chip-monkey-b2014551.html',
     'https://www.protocol.com/tesla-nhtsa-recall',
     'https://www.nbcnews.com/tech/tech-news/disgruntled-neighbors-dwindling-shorebirds-jeopardize-spacex-expansion-rcna7792',
