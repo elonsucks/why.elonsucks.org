@@ -13,13 +13,6 @@
           "url": "https://www.yahoo.com/entertainment/elon-musk-consistently-tries-silence-210402696.html"
         }
       ],
-      "corruption": [
-        {
-          "title": "Elon Musk seizes computer system, locks out senior government officials",
-          "pubDate": "2025.2.2", "publisher": "MSN", "author": "Chance Townsend",
-          "url": "https://www.msn.com/en-us/politics/government/elon-musk-seizes-computer-system-locks-out-senior-government-officials/ar-AA1yhC80"
-        }
-      ],
       "falseAdvertising": [
         {
           "title": "Apple cofounder Wozniak takes aim at ‘dishonest’ Elon Musk for misleading Tesla buyers: ‘They robbed my family of so much money’",
@@ -30,6 +23,13 @@
           "title": "Musk oversaw staged Tesla self-driving video, emails show",
           "pubDate": "2023.1.20", "publisher": "Ars Technica", "author": "Jonathan M. Gitlin",
           "url": "https://arstechnica.com/cars/2023/01/musk-oversaw-staged-tesla-self-driving-video-emails-show/"
+        }
+      ],
+      "govCorruption": [
+        {
+          "title": "Elon Musk seizes computer system, locks out senior government officials",
+          "pubDate": "2025.2.2", "publisher": "MSN", "author": "Chance Townsend",
+          "url": "https://www.msn.com/en-us/politics/government/elon-musk-seizes-computer-system-locks-out-senior-government-officials/ar-AA1yhC80"
         }
       ],
       "homophobia": [
