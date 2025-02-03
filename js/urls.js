@@ -40,7 +40,7 @@ const urls = [ // eslint-disable-line
     'https://abcnews.go.com/Business/elon-musk-apologizes-antisemitic-tweet-crudely-attacks-advertisers/story?id=105270907',
     'https://www.bbc.com/news/technology-67693935', // Elon Musk's Tesla recalls two million cars in US over Autopilot defect
     'https://www.cnn.com/2024/08/13/business/uaw-trump-musk-charges/index.html',
-    'https://www.nytimes.com/2024/01/03/business/spacex-elon-musk-nlrb-workers.html', // SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says
+    'https://www.nbcnews.com/tech/tech-news/spacex-illegally-fired-workers-critical-elon-musk-us-labor-agency-says-rcna132250', // SpaceX Illegally Fired Workers Critical of Musk, Federal Agency Says
     'https://www.wired.com/story/elon-musk-america-pac-blitz-canvassing-michigan-uhaul/', // Elon tricked door-knockers into campaigning for Trump, threatened to withhold pay
     'https://www.rollingstone.com/culture/culture-news/elon-musk-space-x-flight-attendant-sexual-misconduct-settlement-1356164/',
     'https://www.newsweek.com/tesla-recalls-24000-vehicles-nhtsa-opens-probe-2012999',
