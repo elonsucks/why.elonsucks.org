@@ -9,7 +9,7 @@
             })
         else { // contains `url` key or needs further recursion
             if (obj.url) urls.push(obj.url) // push found obj.url's val
-            else Object.values(obj).forEach(val => urls.push(...extractURLs(val))) // recurse to reach arrays
+            else Object.values(obj).forEach(val => urls.push(...extractURLs(val))) // recurse until array reached
         }
         return urls
     }
