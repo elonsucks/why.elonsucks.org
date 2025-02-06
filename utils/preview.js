@@ -16,7 +16,7 @@
     require('child_process').exec(`http-server -p ${availPort}`).stdout.on('data', data => {
         if (data.includes(stopHint)) { // stdout msg when server ready
             data = data.replace('Hit CTRL-C to stop the server', `\nPress ${bw}CTRL+C${nc} in terminal to stop server`)
-            data += `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)`
+            data += `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
             open(`http://localhost:${availPort}${ process.argv.includes('--debug') ? '?debug=all' : '' }`)
         }
         console.log(data)
