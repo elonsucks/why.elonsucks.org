@@ -379,22 +379,24 @@
         "url": "https://www.youtube.com/watch?v=IAsWX8QKROo"
       }
     ],
-    "tesla": [
-      {
-        "title": "Gravitas: Safety concerns over Tesla's robot attack & fatal car malfunctions mount",
-        "pubDate": "2023.12.28", "publisher": "WION",
-        "url": "https://www.youtube.com/watch?v=cBhiQ3x7GjU"
-      },
-      {
-        "title": "Tesla crashes in China after going out of control, killing one and injuring another",
-        "pubDate": "2023.2.20", "publisher": "South China Morning Post",
-        "url": "https://www.youtube.com/watch?v=-Xv9AdwtfD8"
-      },
-      {
-        "title": "TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode!",
-        "pubDate": "2022.12.6", "publisher": "Tesla&Ai News",
-        "url": "https://www.youtube.com/watch?v=VswuC3btb5o"
-      }
-    ]
+    "tesla": {
+      "faulty": [
+        {
+          "title": "Gravitas: Safety concerns over Tesla's robot attack & fatal car malfunctions mount",
+          "pubDate": "2023.12.28", "publisher": "WION",
+          "url": "https://www.youtube.com/watch?v=cBhiQ3x7GjU"
+        },
+        {
+          "title": "Tesla crashes in China after going out of control, killing one and injuring another",
+          "pubDate": "2023.2.20", "publisher": "South China Morning Post",
+          "url": "https://www.youtube.com/watch?v=-Xv9AdwtfD8"
+        },
+        {
+          "title": "TOP TESLA FIRES COMPILATION VIDEO! Watch as these Tesla cars & batteries catch on fire and explode!",
+          "pubDate": "2022.12.6", "publisher": "Tesla&Ai News",
+          "url": "https://www.youtube.com/watch?v=VswuC3btb5o"
+        }
+      ]
+    }
   }
 }
