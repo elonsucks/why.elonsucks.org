@@ -34,8 +34,8 @@
             ['unvisited', 'visited'].forEach(urlsType => {
                 const numberedURLs = JSON.stringify(urls[urlsType], null, 2)
                     .replace(/"http/g, (match, offset, string) => {
-                        const idx = (string.slice(0, offset).match(/"http/g) || []).length +1
-                        return `${idx}. "${match.slice(1)}`
+                        const urlIdx = (string.slice(0, offset).match(/"http/g) || []).length +1
+                        return `${urlIdx}. "${match.slice(1)}`
                     })
                 debugOutput += `<pre>urls.${urlsType} = ${numberedURLs
                     .replace(new RegExp(`\\d+\\. "${randURL}"`), `<strong style="color: #48b720">$&</strong>`)}</pre>`
