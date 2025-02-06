@@ -10,6 +10,7 @@
     // Init UI COLORS
     const bw = '\x1b[97m', // bright white
           by = '\x1b[93m', // bright yellow
+          br = '\x1b[91m', // bright red
           nc = '\x1b[0m'   // no color
 
     // Init STDOUT vars
@@ -21,7 +22,7 @@
 
     if (!process.argv.includes('--recursing')) // spawn new terminal from OG one
         return spawn(`node ${__filename} --recursing`, { shell: true, detached: true, stdio: 'ignore' })
-            .on('error', err => console.error(`Failed to open new terminal: ${err.message}`))
+            .on('error', err => console.error(`${br}Failed to open new terminal: ${err.message}${nc}`))
             .unref() // detach process to allow immediate return to cmd prompt
 
     // PREVIEW page
