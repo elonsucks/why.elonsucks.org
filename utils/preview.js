@@ -16,7 +16,7 @@
     // Init STDOUT vars
     const availPort = await getPort({ port: portNumbers(3000, 3999) })
     const reAccessInfo = /Available on:[\s\S]+/
-    const enrichedAccessInfo = `Listening at ${by}http://localhost:${availPort}${nc}\n\n`
+    const richAccessInfo = `Listening at ${by}http://localhost:${availPort}${nc}\n\n`
         + `Press ${bw}CTRL+C${nc} in terminal to stop server\n`
         + `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
 
@@ -28,7 +28,7 @@
     // PREVIEW page
     require('child_process').exec(`http-server -p ${availPort}`).stdout.on('data', data => {
         if (reAccessInfo.test(data)) { // server ready msg, enrich then preview site
-            data = data.replace(reAccessInfo, enrichedAccessInfo)
+            data = data.replace(reAccessInfo, richAccessInfo)
             open(`http://localhost:${availPort}${ process.argv.includes('--debug') ? '?debug=all' : '' }`)
         }
         console.log(data) // on each stdout output
