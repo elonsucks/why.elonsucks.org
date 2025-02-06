@@ -20,8 +20,8 @@
         + `Press ${bw}CTRL+C${nc} in terminal to stop server\n`
         + `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
 
-    if (!process.argv.includes('--recursing')) // spawn new terminal from OG one
-        return spawn(`node ${__filename} --recursing`, { shell: true, detached: true, stdio: 'ignore' })
+    if (!process.argv.includes('--spawned')) // spawn new terminal from OG one
+        return spawn(`node ${__filename} --spawned`, { shell: true, detached: true, stdio: 'ignore' })
             .on('error', err => console.error(`${br}Failed to open new terminal: ${err.message}${nc}`))
             .unref() // detach process to allow immediate return to cmd prompt
 
