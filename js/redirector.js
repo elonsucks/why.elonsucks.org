@@ -21,7 +21,7 @@
     } ; urls.unvisited = urls.all.filter(url => !urls.visited.includes(url))
     if (!urls.unvisited.length) { // no unvisited URLs remain...
         urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
-        localStorage.weso_visitedURLs = '[]' // + clear urls.visited from storage
+        urls.visited.length = 0 ; localStorage.weso_visitedURLs = '[]' // + clear urls.visited from memory + storage
     }
     const randURL = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
