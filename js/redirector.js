@@ -17,11 +17,11 @@
     // Init URLs
     const urls = {
         all: extractURLs(await (await fetch('assets/data/urls.json')).json()),
-        visited: JSON.parse(localStorage.wesoVisitedURLs || '[]')
+        visited: JSON.parse(localStorage.weso_visitedURLs || '[]')
     } ; urls.unvisited = urls.all.filter(url => !urls.visited.includes(url))
     if (!urls.unvisited.length) { // no unvisited URLs remain...
         urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
-        localStorage.wesoVisitedURLs = '[]' // + clear urls.visited from storage
+        localStorage.weso_visitedURLs = '[]' // + clear urls.visited from storage
     }
     const randURL = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
@@ -42,7 +42,7 @@
             })
         document.write(debugOutput)
     } else { // redir to randURL
-        localStorage.wesoVisitedURLs = JSON.stringify([...urls.visited, randURL])
+        localStorage.weso_visitedURLs = JSON.stringify([...urls.visited, randURL])
         document.location = randURL
     }
 
