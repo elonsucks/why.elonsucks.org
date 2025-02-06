@@ -20,7 +20,7 @@
                  + `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
             open(`http://localhost:${availPort}${ process.argv.includes('--debug') ? '?debug=all' : '' }`)
         }
-        console.log(data) // on new stdout output
+        console.log(data) // on each stdout output
     })
 
 })()
