@@ -3,8 +3,8 @@
 (async () => {
 
     // Import LIBS
-    const open = (await import('open')).default,
-          { default: getPort, portNumbers } = await import('get-port')
+    const { default: getPort, portNumbers } = await import('get-port'),
+          open = (await import('open')).default
 
     // Init UI COLORS
     const bw = '\x1b[97m', // bright white
