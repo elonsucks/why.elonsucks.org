@@ -28,8 +28,8 @@
     // Show or redir to randURL
     if (location.search.startsWith('?debug')) { // show randURL
         let debugOutput = `<pre>Redirect URL (#${
-            urls.unvisited.indexOf(randURL) +1 } of ${urls.unvisited.length} unvisited): `
-                        + `<a href="${randURL}">${randURL}</a></pre>`
+            urls.unvisited.indexOf(randURL) +1 } of ${urls.unvisited.length} unvisited):\n`
+                        + `<strong><a href="${randURL}">${randURL}</a></strong></pre>`
         if (location.search.endsWith('=all')) // append numbered urls.<unvisited|visited>
             ['unvisited', 'visited'].forEach(urlsType => {
                 const numberedURLs = JSON.stringify(urls[urlsType], null, 2)
