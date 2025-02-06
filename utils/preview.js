@@ -14,12 +14,12 @@
     const availPort = await getPort({ port: portNumbers(3000, 3999) }),
           stopHint = 'Hit CTRL-C to stop the server'
     require('child_process').exec(`http-server -p ${availPort}`).stdout.on('data', data => {
-        if (data.includes(stopHint)) { // stdout msg when server ready
-            data = data.replace('Hit CTRL-C to stop the server', `\nPress ${bw}CTRL+C${nc} in terminal to stop server`)
-            data += `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
+        if (data.includes(stopHint)) { // server ready msg, enrich then preview
+            data = data.replace(stopHint, `\nPress ${bw}CTRL+C${nc} in terminal to stop server`)
+                 + `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
             open(`http://localhost:${availPort}${ process.argv.includes('--debug') ? '?debug=all' : '' }`)
         }
-        console.log(data)
+        console.log(data) // on new stdout output
     })
 
 })()
