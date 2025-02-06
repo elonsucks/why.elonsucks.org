@@ -21,9 +21,10 @@
         + `Press ${bw}CTRL+SHIFT+R${nc} in browser to clear cache (if assets/data/urls.json updated)\n`
 
     if (!process.argv.includes('--spawned')) // spawn new terminal from OG one
-        return spawn(`node ${__filename} --spawned`, { shell: true, detached: true, stdio: 'ignore' })
-            .on('error', err => console.error(`${br}Failed to open new terminal: ${err.message}${nc}`))
-            .unref() // detach process to allow immediate return to cmd prompt
+        return spawn('node', [__filename, '--spawned', ...process.argv.slice(2)],
+            { shell: true, detached: true, stdio: 'ignore' })
+                .on('error', err => console.error(`${br}Failed to open new terminal: ${err.message}${nc}`))
+                .unref() // detach process to allow immediate return to cmd prompt
 
     // PREVIEW page
     require('child_process').exec(`http-server -p ${availPort}`).stdout.on('data', data => {
