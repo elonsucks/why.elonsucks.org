@@ -30,10 +30,16 @@
         let debugOutput = `<pre>Redirect URL (#${
             urls.unvisited.indexOf(randURL) +1 } of ${urls.unvisited.length} unvisited): `
                         + `<a href="${randURL}">${randURL}</a></pre>`
-        if (location.search.endsWith('=all')) // append `urls` array
-            debugOutput += `<pre>urls.unvisited = ${JSON.stringify(urls.unvisited, null, 2)
-                .replace(`"${randURL}"`, `<strong style="color: #48b720">"${randURL}"</strong>`)}</pre>`
-                         + `<pre>urls.visited = ${JSON.stringify(urls.visited, null, 2)}</pre>`
+        if (location.search.endsWith('=all')) // append numbered urls.<unvisited|visited>
+            ['unvisited', 'visited'].forEach(urlsType => {
+                const numberedURLs = JSON.stringify(urls[urlsType], null, 2)
+                    .replace(/"http/g, (match, offset, string) => {
+                        const idx = (string.slice(0, offset).match(/"http/g) || []).length +1
+                        return `${idx}. "${match.slice(1)}`
+                    })
+                debugOutput += `<pre>urls.${urlsType} = ${numberedURLs
+                    .replace(new RegExp(`\\d+\\. "${randURL}"`), `<strong style="color: #48b720">$&</strong>`)}</pre>`
+            })
         document.write(debugOutput)
     } else { // redir to randURL
         localStorage.wesoVisitedURLs = JSON.stringify([...urls.visited, randURL])
