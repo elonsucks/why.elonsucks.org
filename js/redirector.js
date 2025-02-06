@@ -14,18 +14,30 @@
         return urls
     }
 
-    const urls = extractURLs(await (await fetch('assets/data/urls.json')).json()),
-          randURL = urls[Math.floor(Math.random() * urls.length)]
+    // Init URLs
+    const urls = {
+        all: extractURLs(await (await fetch('assets/data/urls.json')).json()),
+        visited: JSON.parse(localStorage.wesoVisitedURLs || '[]')
+    } ; urls.unvisited = urls.all.filter(url => !urls.visited.includes(url))
+    if (!urls.unvisited.length) { // no unvisited URLs remain...
+        urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
+        localStorage.wesoVisitedURLs = '[]' // + clear urls.visited from storage
+    }
+    const randURL = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
+    // Show or redir to randURL
     if (location.search.startsWith('?debug')) { // show randURL
-        let debugOutput = `<pre>Redirect URL (#${ urls.indexOf(randURL) +1 } of ${urls.length}): `
+        let debugOutput = `<pre>Redirect URL (#${
+            urls.unvisited.indexOf(randURL) +1 } of ${urls.unvisited.length} unvisited): `
                         + `<a href="${randURL}">${randURL}</a></pre>`
         if (location.search.endsWith('=all')) // append `urls` array
-            debugOutput += `<pre>urls = ${JSON.stringify(urls, null, 2)
+            debugOutput += `<pre>urls.unvisited = ${JSON.stringify(urls.unvisited, null, 2)
                 .replace(`"${randURL}"`, `<strong style="color: #48b720">"${randURL}"</strong>`)}</pre>`
+                         + `<pre>urls.visited = ${JSON.stringify(urls.visited, null, 2)}</pre>`
         document.write(debugOutput)
-
-    } else // redir to randURL
+    } else { // redir to randURL
+        localStorage.wesoVisitedURLs = JSON.stringify([...urls.visited, randURL])
         document.location = randURL
+    }
 
 })()
