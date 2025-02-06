@@ -31,8 +31,8 @@
         if (reAccessInfo.test(data)) { // server ready msg, enrich then preview site
             data = data.replace(reAccessInfo, richAccessInfo)
             open(`http://localhost:${availPort}${ process.argv.includes('--debug') ? '?debug=all' : '' }`)
+            return console.log(data)
         }
-        console.log(data) // on each stdout output
     })
 
 })()
