@@ -17,11 +17,11 @@
     // Init URLs
     const urls = {
         all: extractURLs(await (await fetch('assets/data/urls.json')).json()),
-        visited: JSON.parse(localStorage.weso_visitedURLs || '[]')
+        visited: JSON.parse(localStorage.whyElonSucks_visitedURLs || '[]')
     } ; urls.unvisited = urls.all.filter(url => !urls.visited.includes(url))
     if (!urls.unvisited.length) { // no unvisited URLs remain...
         urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
-        urls.visited.length = 0 ; localStorage.weso_visitedURLs = '[]' // + clear urls.visited from memory + storage
+        urls.visited.length = 0 ; localStorage.whyElonSucks_visitedURLs = '[]' // + clear urls.visited from memory + storage
     }
     urls.random = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
@@ -42,7 +42,7 @@
             })
         document.write(debugOutput)
     } else { // redir to urls.random
-        localStorage.weso_visitedURLs = JSON.stringify([...urls.visited, urls.random])
+        localStorage.whyElonSucks_visitedURLs = JSON.stringify([...urls.visited, urls.random])
         document.location = urls.random
     }
 
