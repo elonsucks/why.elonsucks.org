@@ -21,7 +21,8 @@
     } ; urls.unvisited = urls.all.filter(url => !urls.visited.includes(url))
     if (!urls.unvisited.length) { // no unvisited URLs remain...
         urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
-        urls.visited.length = 0 ; localStorage.whyElonSucks_visitedURLs = '[]' // + clear urls.visited from memory + storage
+        urls.visited.length = 0 // + clear urls.visited from memory
+        localStorage.whyElonSucks_visitedURLs = '[]' // + storage
     }
     urls.random = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
@@ -37,8 +38,8 @@
                         const urlIdx = (string.slice(0, offset).match(/"http/g) || []).length +1
                         return `${urlIdx}. "${match.slice(1)}`
                     })
-                debugOutput += `<pre>urls.${urlsType} = ${numberedURLs
-                    .replace(new RegExp(`\\d+\\. "${urls.random}"`), `<strong style="color: #48b720">$&</strong>`)}</pre>`
+                debugOutput += `<pre>urls.${urlsType} = ${numberedURLs.replace(new RegExp(`\\d+\\. "${urls.random}"`),
+                    `<strong style="color: #48b720">$&</strong>`)}</pre>`
             })
         document.write(debugOutput)
     } else { // redir to urls.random
