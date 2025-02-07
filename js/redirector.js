@@ -23,13 +23,13 @@
         urls.unvisited.push(...urls.all) // ...so populate w/ urls.all
         urls.visited.length = 0 ; localStorage.weso_visitedURLs = '[]' // + clear urls.visited from memory + storage
     }
-    const randURL = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
+    urls.random = urls.unvisited[Math.floor(Math.random() * urls.unvisited.length)]
 
-    // Show or redir to randURL
-    if (location.search.startsWith('?debug')) { // show randURL
+    // Show or redir to urls.random
+    if (location.search.startsWith('?debug')) { // show urls.random
         let debugOutput = `<pre>Redirect URL (#${
-            urls.unvisited.indexOf(randURL) +1 } of ${urls.unvisited.length} unvisited):\n`
-                        + `<strong><a href="${randURL}">${randURL}</a></strong></pre>`
+            urls.unvisited.indexOf(urls.random) +1 } of ${urls.unvisited.length} unvisited):\n`
+                        + `<strong><a href="${urls.random}">${urls.random}</a></strong></pre>`
         if (location.search.endsWith('=all')) // append numbered urls.<unvisited|visited>
             ['unvisited', 'visited'].forEach(urlsType => {
                 const numberedURLs = JSON.stringify(urls[urlsType], null, 2)
@@ -38,12 +38,12 @@
                         return `${urlIdx}. "${match.slice(1)}`
                     })
                 debugOutput += `<pre>urls.${urlsType} = ${numberedURLs
-                    .replace(new RegExp(`\\d+\\. "${randURL}"`), `<strong style="color: #48b720">$&</strong>`)}</pre>`
+                    .replace(new RegExp(`\\d+\\. "${urls.random}"`), `<strong style="color: #48b720">$&</strong>`)}</pre>`
             })
         document.write(debugOutput)
-    } else { // redir to randURL
-        localStorage.weso_visitedURLs = JSON.stringify([...urls.visited, randURL])
-        document.location = randURL
+    } else { // redir to urls.random
+        localStorage.weso_visitedURLs = JSON.stringify([...urls.visited, urls.random])
+        document.location = urls.random
     }
 
 })()
