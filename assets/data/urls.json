@@ -197,8 +197,8 @@
       "govAction": [
         {
           "title": "SpaceX repeatedly polluted waters in Texas this year, regulators found",
-          "pubDate": "2024.8.12", "publisher": "CNBC", "author": "Lora Kolodny",
-          "url": "https://www.cnbc.com/2024/08/12/spacex-repeatedly-polluted-waters-in-texas-tceq-epa-found.html"
+          "pubDate": "2024.8.12", "publisher": "NBC News", "author": [ "Lora Kolodny", "CNBC" ],
+          "url": "https://www.nbcnews.com/science/environment/spacex-polluted-waters-texas-regulators-rcna166283"
         },
         {
           "title": "SpaceX illegally fired workers critical of Elon Musk, U.S. labor agency says",
