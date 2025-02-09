@@ -1,11 +1,28 @@
 {
   "articles": {
     "doge": {
+      "critiques": [
+        {
+          "title": "‘The biggest heist in American history’: DC is just waking up to Elon Musk’s takeover",
+          "pubDate": "2025.2.5", "publisher": "The Verge", "author": "Lauren Feiner",
+          "url": "https://www.theverge.com/policy/606567/elon-musk-government-takeover-protest-doge"
+        },
+        {
+          "title": "Elon Musk’s access to federal data ‘is a five-alarm fire,’ Governor Maura Healey says",
+          "pubDate": "2025.2.5", "publisher": "The Boston Globe", "author": "Matt Stout",
+          "url": "https://www.bostonglobe.com/2025/02/05/metro/maura-healey-elon-musk-donald-trump-access-doge/"
+        }
+      ],
       "govAction": [
         {
           "title": " Federal judge blocks Elon Musk’s DOGE access to critical Treasury payment system ",
           "pubDate": "2025.2.8", "publisher": "CNN ", "author": "Ray Sanchez",
           "url": "https://www.cnn.com/2025/02/08/politics/elon-musk-doge-treasury-payment-system/index.html"
+        },
+        {
+          "title": "Judge weighs interim ban on Elon Musk's DOGE accessing the financial data of millions of Americans",
+          "pubDate": "2025.2.5", "publisher": "Business Insider", "author": "Laura Italiano",
+          "url": "https://www.msn.com/en-us/news/politics/judge-weighs-interim-ban-on-elon-musks-doge-accessing-the-financial-data-of-millions-of-americans/ar-AA1yulwB"
         }
       ]
     },
@@ -39,21 +56,6 @@
           "title": "Elon Musk gets quiet White House reminders his power isn't unchecked ",
           "pubDate": "2025.2.5", "publisher": "NBC News", "author": [ "Matt Dixon", "Garrett Haake", "Allan Smith" ],
           "url": "https://www.nbcnews.com/politics/donald-trump/elon-musk-white-house-reminder-power-not-unchecked-rcna190659"
-        },
-        {
-          "title": "Elon Musk’s access to federal data ‘is a five-alarm fire,’ Governor Maura Healey says",
-          "pubDate": "2025.2.5", "publisher": "The Boston Globe", "author": "Matt Stout",
-          "url": "https://www.bostonglobe.com/2025/02/05/metro/maura-healey-elon-musk-donald-trump-access-doge/"
-        },
-        {
-          "title": "Judge weighs interim ban on Elon Musk's DOGE accessing the financial data of millions of Americans",
-          "pubDate": "2025.2.5", "publisher": "Business Insider", "author": "Laura Italiano",
-          "url": "https://www.msn.com/en-us/news/politics/judge-weighs-interim-ban-on-elon-musks-doge-accessing-the-financial-data-of-millions-of-americans/ar-AA1yulwB"
-        },
-        {
-          "title": "‘The biggest heist in American history’: DC is just waking up to Elon Musk’s takeover",
-          "pubDate": "2025.2.5", "publisher": "The Verge", "author": "Lauren Feiner",
-          "url": "https://www.theverge.com/policy/606567/elon-musk-government-takeover-protest-doge"
         },
         {
           "title": "Phyllis Fong, who was investigating Elon Musk's brain implant startup Neuralink, \"forcefully removed from office\" after refusing termination order",
