@@ -1,5 +1,14 @@
 {
   "articles": {
+    "doge": {
+      "govAction": [
+        {
+          "title": " Federal judge blocks Elon Musk’s DOGE access to critical Treasury payment system ",
+          "pubDate": "2025.2.8", "publisher": "CNN ", "author": "Ray Sanchez",
+          "url": "https://www.cnn.com/2025/02/08/politics/elon-musk-doge-treasury-payment-system/index.html"
+        }
+      ]
+    },
     "elon": {
       "censorship": [
         {
