@@ -36,6 +36,13 @@
           "pubDate": "2025.2.10", "publisher": "The Verge", "author": "Wes Davis",
           "url": "https://www.theverge.com/news/609621/elon-musk-doge-tesla-protests-us"
         }
+      ],
+      "securityRisk": [
+        {
+          "title": " Cybersecurity, government experts are aghast at security failures in DOGE takeover ",
+          "pubDate": "2025.2.4", "publisher": "CyberScoop", "author": "Derek B. Johnson",
+          "url": "https://cyberscoop.com/musk-doge-opm-treasury-breach/"
+        }
       ]
     },
     "elon": {
