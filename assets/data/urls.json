@@ -68,11 +68,6 @@
           "title": "Fact check: Eight ways Elon Musk has misled Americans about government spending",
           "pubDate": "2025.2.23", "publisher": "CNN Politics", "author": "Daniel Dale",
           "url": "https://www.cnn.com/2025/02/23/politics/government-spending-elon-musk-doge/index.html"
-        },
-        {
-          "title": "SEC sues Elon Musk for his allegedly misleading tweets",
-          "pubDate": "2018.9.28", "publisher": "CNN Business", "author": "Julia Horowitz",
-          "url": "https://money.cnn.com/2018/09/27/technology/elon-musk-sec/index.html"
         }
       ],
       "falseAdvertising": [
@@ -97,6 +92,11 @@
           "title": "UAW files federal labor charges against Donald Trump and Elon Musk after threatening workers on X interview",
           "pubDate": "2024.8.13", "publisher": "CNN Business", "author": "David Goldman",
           "url": "https://www.cnn.com/2024/08/13/business/uaw-trump-musk-charges/index.html"
+        },
+        {
+          "title": "SEC sues Elon Musk for his allegedly misleading tweets",
+          "pubDate": "2018.9.28", "publisher": "CNN Business", "author": "Julia Horowitz",
+          "url": "https://money.cnn.com/2018/09/27/technology/elon-musk-sec/index.html"
         }
       ],
       "govCorruption": [
