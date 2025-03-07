@@ -310,6 +310,13 @@
           "url": "https://www.theverge.com/2022/6/17/23172915/elon-musk-spacex-letter-fired-legal-protected-speech-nlrb"
         }
       ],
+      "faulty": [
+        {
+          "title": "Elon Musk's SpaceX Launch Failure Sparks Numerous Airport Delays",
+          "pubDate": "2025.3.6", "publisher": "Newsweek", "author": ["Aila Slisco", "Anna Commander"],
+          "url": "https://www.newsweek.com/spacex-launch-failure-airport-delays-2040984"
+        }
+      ],
       "govAction": [
         {
           "title": "FAA fines SpaceX for launch license violations",
