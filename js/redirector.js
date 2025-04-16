@@ -41,7 +41,7 @@
                 debugOutput += `<pre>urls.${urlsType} = ${numberedURLs.replace(new RegExp(`\\d+\\. "${urls.random}"`),
                     `<strong style="color: #48b720">$&</strong>`)}</pre>`
             })
-        document.write(debugOutput)
+        document.body.innerHTML = debugOutput
     } else { // redir to urls.random
         localStorage.visitedURLs = JSON.stringify([...urls.visited, urls.random])
         document.location = urls.random
