@@ -7,6 +7,11 @@
 This repository contains the website code for [why.elonsucks.org](https://why.elonsucks.org) (served by [Cloudflare Pages](https://pages.cloudflare.com/)).
 <br><br>
 
+## 🧠 Contributing
+
+Just edit https://github.com/elonsucks/why.elonsucks.org/blob/main/assets/data/urls.json and create a PR!
+<br><br>
+
 ## 🏛️ MIT License
 
 **Copyright © 2023–2025 [ElonSucks.org](https://elonsucks.org)**
