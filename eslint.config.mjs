@@ -44,7 +44,7 @@ export default [
     {
         files: ['**/*.html'], languageOptions: { parser: htmlParser }, plugins: { html },
         rules: {
-            ...html.configs['flat/recommended'].rules,
+            ...html.configs.recommended.rules,
             'html/require-title': 'off', // allow missing title tags
             'html/quotes': 'off', // allow unquoted attrs for compactness
             'html/attrs-newline': 'off', // allow multi-attrs in single line
