@@ -3,13 +3,13 @@
     function extractURLs(obj) {
         const urls = []
         if (Array.isArray(obj)) // contains URLs
-            obj.forEach(entry => {
+            for (const entry of obj) {
                 if (typeof entry == 'string') urls.push(entry) // push string URL
                 else urls.push(...extractURLs(entry)) // recurse once to push entry.url
-            })
+            }
         else { // contains `url` key or needs further recursion
             if (obj.url) urls.push(obj.url) // push found obj.url's val
-            else Object.values(obj).forEach(val => urls.push(...extractURLs(val))) // recurse until array reached
+            else for (const val of Object.values(obj)) urls.push(...extractURLs(val)) // recurse until array reached
         }
         return urls
     }
