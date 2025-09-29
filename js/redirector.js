@@ -33,7 +33,7 @@
                         + `<strong><a href="${urls.random}">${urls.random}</a></strong></pre>`
         if (location.search.endsWith('=all')) // append numbered urls.<unvisited|visited>
             ['unvisited', 'visited'].forEach(urlsType => {
-                const numberedURLs = JSON.stringify(urls[urlsType], null, 2)
+                const numberedURLs = JSON.stringify(urls[urlsType], undefined, 2)
                     .replace(/"http/g, (match, offset, string) => {
                         const urlIdx = (string.slice(0, offset).match(/"http/g) || []).length +1
                         return `${urlIdx}. "${match.slice(1)}`
