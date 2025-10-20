@@ -1,4 +1,5 @@
 (async () => {
+    'use strict'
 
     function extractURLs(obj) {
         const urls = []
