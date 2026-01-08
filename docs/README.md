@@ -14,7 +14,7 @@ Just edit https://github.com/elonsucks/why.elonsucks.org/blob/main/assets/data/u
 
 ## 🏛️ MIT License
 
-**Copyright © 2023–2025 [ElonSucks.org](https://elonsucks.org)**
+**Copyright © 2023–2026 [ElonSucks.org](https://elonsucks.org)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
