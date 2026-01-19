@@ -7,10 +7,22 @@
   "homepage": "https://why.elonsucks.org",
   "license": "MIT",
   "funding": [
-    { "type": "cashapp", "url": "https://cash.app/$AdamLui" },
-    { "type": "github", "url": "http://github.com/sponsors/elonsucks" },
-    { "type": "ko-fi", "url": "https://ko-fi.com/adamlui" },
-    { "type": "paypal", "url": "https://paypal.me/adamlui" }
+    {
+      "type": "cashapp",
+      "url": "https://cash.app/$AdamLui"
+    },
+    {
+      "type": "github",
+      "url": "http://github.com/sponsors/elonsucks"
+    },
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/adamlui"
+    },
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/adamlui"
+    }
   ],
   "scripts": {
     "prepare": "husky",
@@ -19,12 +31,12 @@
     "lint:all": "eslint .",
     "lint:fix": "eslint . --fix --cache",
     "lint:fix-all": "eslint . --fix",
-    "build:js": "minify-js js --no-mangle",
+    "build:js": "minify-js js --no-mangle --relative-output",
     "preview": "node utils/preview",
     "preview:debug": "node utils/preview --debug"
   },
   "devDependencies": {
-    "@adamlui/minify.js": "^1.10.0",
+    "@adamlui/minify.js": "^2.0.0",
     "@eslint/css": "^0.14.1",
     "@eslint/json": "^0.14.0",
     "@eslint/markdown": "^7.5.1",
