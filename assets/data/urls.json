@@ -75,11 +75,6 @@
           "title": "Elon Musk scolds Tesla driver for pointing out a flaw in the $199-a-month Full Self-Driving subscription after repeatedly calling for 'negative feedback'",
           "pubDate": "2022.8.24", "publisher": "Yahoo News", "author": "Grace Kay",
           "url": "https://www.yahoo.com/news/elon-musk-scolds-tesla-driver-153215907.html"
-        },
-        {
-          "title": "Elon Musk, Who Consistently Tries to Silence His Critics, Complains About Free Speech on Twitter",
-          "pubDate": "2022.3.28", "publisher": "Yahoo Entertainment", "author": "Wren Graves",
-          "url": "https://www.yahoo.com/entertainment/elon-musk-consistently-tries-silence-210402696.html"
         }
       ],
       "critiques": [
@@ -138,19 +133,9 @@
           "title": "Elon Musk Settles SEC Fraud Charges; Tesla Charged With and Resolves Securities Law Charge",
           "pubDate": "2018.9.29", "publisher": "U.S. Securities and Exchange Commission",
           "url": "https://www.sec.gov/newsroom/press-releases/2018-226"
-        },
-        {
-          "title": "SEC sues Elon Musk for his allegedly misleading tweets",
-          "pubDate": "2018.9.28", "publisher": "CNN Business", "author": "Julia Horowitz",
-          "url": "https://money.cnn.com/2018/09/27/technology/elon-musk-sec/index.html"
         }
       ],
       "govCorruption": [
-        {
-          "title": "Federal workers sue over Musk's threat to fire if they don't explain accomplishments",
-          "pubDate": "2025.2.23", "publisher": "ABC News", "author": ["Lindsay Whitehurst", "Chris Megerian"],
-          "url": "https://abcnews.go.com/Politics/wireStory/federal-workers-confront-mass-confusion-musks-deadline-list-119113319"
-        },
         {
           "title": "More than a dozen state attorneys general challenge Musk and DOGE’s authority",
           "pubDate": "2025.2.13", "publisher": "Associated Press", "author": "Morgan Lee",
@@ -272,11 +257,6 @@
           "title": "Elon Musk ridiculed a blind person on X. Then a mob went to work.",
           "pubDate": "2025.2.17", "publisher": "The Washington Post", "author": "Pranshu Verma",
           "url": "https://www.msn.com/en-us/news/technology/ar-AA1zcoHB"
-        },
-        {
-          "title": "Elon Musk reminds us why federal judges have life tenure",
-          "pubDate": "2025.2.10", "publisher": "MSNBC", "author": "Jordan Rubin",
-          "url": "https://www.yahoo.com/news/elon-musk-reminds-us-why-200251016.html"
         },
         {
           "title": "Elon Musk apologizes for antisemitic tweet but crudely attacks advertisers",
@@ -556,13 +536,6 @@
           "url": "https://www.forbes.com/sites/mattnovak/2023/02/20/yes-twitter-gives-a-warning-to-users-who-liked-a-tweet-criticizing-tesla-but-theres-more-to-the-story/"
         }
       ],
-      "demoderation": [
-        {
-          "title": "Twitter quietly removed its ban on COVID-19 misinformation last week",
-          "pubDate": "2022.11.29", "publisher": "Popular Science", "author": "Andrew Paul",
-          "url": "https://www.popsci.com/technology/twitter-covid-misinformation/"
-        }
-      ],
       "inhumanity": [
         {
           "title": "Twitter workers file WARN Act lawsuit challenging mass layoffs",
@@ -590,7 +563,7 @@
       "https://why.elonsucks.org/assets/lawsuits/tesla/california-v-tesla-racial-discrimination-complaint.pdf",
       "https://why.elonsucks.org/assets/lawsuits/tesla/isaacs-v-musk-tesla-securities-manipulation-class-action.pdf",
       "https://why.elonsucks.org/assets/lawsuits/tesla/lynch-et-al-v-tesla-warn-act-class-action.pdf",
-      "https://why.elonsucks.org/assets/lawsuits/tesla/toledo-et-al-v-tesla-defective-brakes-class-action",
+      "https://why.elonsucks.org/assets/lawsuits/tesla/toledo-et-al-v-tesla-defective-brakes-class-action.pdf",
       "https://why.elonsucks.org/assets/lawsuits/tesla/williams-et-al-v-tesla-defective-suspension-class-action.pdf",
       "https://why.elonsucks.org/assets/lawsuits/tesla/yeh-et-al-v-tesla-privacy-class-action.pdf"
     ],
