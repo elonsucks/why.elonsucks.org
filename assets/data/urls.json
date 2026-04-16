@@ -550,6 +550,15 @@
           "url": "https://www.nbcnews.com/tech/tech-news/twitter-accused-targeting-women-layoffs-new-lawsuit-rcna60795"
         }
       ]
+    },
+    "xai": {
+      "toxic": [
+        {
+          "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+          "pubDate": "2026.4.15", "publisher": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis"
+        }
+      ]
     }
   },
   "lawsuits": {
