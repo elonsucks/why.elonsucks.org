@@ -1,7 +1,7 @@
 (async () => {
     'use strict'
 
-    function escapeRegEx(string) { return string.replace(/[.*+?^=!:${}()|[\]\/\\]/g, '\\$&') }
+    function escapeRegEx(string) { return string.replace(/[.*+?^=!:${}()|[\]\\/]/g, '\\$&') }
 
     function extractURLs(obj) {
         const urls = []
