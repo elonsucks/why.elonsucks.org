@@ -1,6 +1,8 @@
 (async () => {
     'use strict'
 
+    function escapeRegEx(string) { return string.replace(/[.*+?^=!:${}()|[\]\/\\]/g, '\\$&') }
+
     function extractURLs(obj) {
         const urls = []
         if (Array.isArray(obj)) // contains URLs
@@ -39,8 +41,11 @@
                         const urlIdx = (string.slice(0, offset).match(/"http/g) || []).length +1
                         return `${urlIdx}. "${match.slice(1)}`
                     })
-                debugOutput += `<pre>urls.${urlsType} = ${numberedURLs.replace(new RegExp(`\\d+\\. "${urls.random}"`),
-                    `<strong style="color: #48b720">$&</strong>`)}</pre>`
+                debugOutput +=
+                    `<pre>urls.${urlsType} = ${
+                        numberedURLs.replace(new RegExp(`\\d+\\. "${escapeRegEx(urls.random)}"`),
+                                            `<strong style="color: #48b720">$&</strong>`)
+                    }</pre>`
             })
         document.body.innerHTML = debugOutput
     } else { // redir to urls.random
