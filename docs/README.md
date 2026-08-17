@@ -1,3 +1,10 @@
+***
+
+> [!IMPORTANT]  
+> This repo has migrated to **<https://codeberg.org/elonsucks/why.elonsucks.org>**
+
+***
+
 # <img height=25 src="https://raw.githubusercontent.com/elonsucks/elonsucks.org/master/public/favicon-150.png"> elonsucks / why.elonsucks.org
 
 <a href="https://github.com/elonsucks/why.elonsucks.org/blob/main/docs/LICENSE.md">
